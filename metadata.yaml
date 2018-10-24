@@ -1,11 +1,16 @@
 _repo: Tom-Pagdin-Pirate_58132
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58132-h/images/cover.jpg
 creator:
   author:
     agent_name: Brady, E. J. (Edwin James)
     gutenberg_agent_id: '49784'
     url: http://www.gutenberg.org/2009/agents/49784
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58132#Tom-Pagdin-Pirate
 gutenberg_issued: '2018-10-18'
 gutenberg_type: Text
 identifiers:
